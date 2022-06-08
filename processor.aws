@@ -1,0 +1,14 @@
+[Version]
+Version=13.0
+[Designs]
+procesador=.\procesador\procesador.adf
+[Browser]
+sort=order
+mode=asc
+[Order]
+order=1
+macro=
+[Expand]
+procesador=1
+[Settings]
+Active=procesador
